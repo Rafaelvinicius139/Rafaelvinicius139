@@ -54,9 +54,6 @@
   <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelvinicius139&layout=compact&theme=holi" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rafaelvinicius139/Rafaelvinicius139/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
 
 
